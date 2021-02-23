@@ -15,3 +15,6 @@ After getting the distance, we can then if-else conditions to display the approp
 	Red if obstacle is within a meter
 	Yellow if obstacle is between 1 and 2 meters
 	Red if obstacle is beyond 3 meters.
+
+For a schematic picture of the board/ arrangement and for a simulation of the project,
+https://www.tinkercad.com/things/fejzwuqXORW-isa-taskphase/editel?sharecode=YlN5heQaT7vhjo0dQeo-W3ayCTn7L7q9VyzFTQzXJxI
