@@ -1,6 +1,8 @@
 ISA ENTRYTASK
 I opted to make a small circuit to indicate the user, the distance from an obstacle in a given direction using a LED light.
  
+For a schematic picture of the board/ arrangement and for a simulation of the project,
+https://www.tinkercad.com/things/fejzwuqXORW-isa-taskphase/editel?sharecode=YlN5heQaT7vhjo0dQeo-W3ayCTn7L7q9VyzFTQzXJxI
 
 Materials used:
 •	Arduino board – a microcontroller to control inputs from the sensor and outputs to the LED, suitable for simple projects.
@@ -15,6 +17,3 @@ After getting the distance, we can then if-else conditions to display the approp
 	Red if obstacle is within a meter
 	Yellow if obstacle is between 1 and 2 meters
 	Red if obstacle is beyond 3 meters.
-
-For a schematic picture of the board/ arrangement and for a simulation of the project,
-https://www.tinkercad.com/things/fejzwuqXORW-isa-taskphase/editel?sharecode=YlN5heQaT7vhjo0dQeo-W3ayCTn7L7q9VyzFTQzXJxI
